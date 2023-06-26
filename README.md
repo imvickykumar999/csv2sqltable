@@ -32,14 +32,18 @@ customer_id | customername | lastname | country | age | phone
 -------
 
     !pip install "SQLAlchemy<1.4"
-    
-    %%sql
-    /*
+
+<br>
+
     %reload_ext sql
-    
+
+<br>
+
     %%sql sqlite:///vicks.db
-    */
-    
+
+<br>
+
+    %%sql
     -- DROP TABLE customer;
     
     CREATE TABLE customer (
