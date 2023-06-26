@@ -6,7 +6,7 @@
 
 -----------
 
-Input: `customer.csv`:
+Input: `customer.csv`
 ------
 
 customer_id | customername | lastname | country | age | phone
@@ -17,14 +17,14 @@ customer_id | customername | lastname | country | age | phone
 4 | Aditya | Arpan | Austria | 21 | xxxxxxxxxx
 5 | "Nishant. Salchichas S.A." | Jain | Spain | 22 | xxxxxxxxxx
 
-Code:
+Code: `run in google colab`
 -----
 
     import csv2sqltable.convert as c2s
     
     print(c2s.transform('customer.csv'))
     
-Output:
+Output: `copy and paste in cell`
 -------
 
     %%sql
@@ -48,3 +48,63 @@ Output:
     ('5', 'Nishant. Salchichas S.A.', 'Jain', 'Spain', '22', 'xxxxxxxxxx');
     
     SELECT * FROM customer;
+
+Sub Output: `on ruuning magic sql command`
+-----------
+
+<div id="output-area"><span id="output-header"> </span><div id="output-body"><div class="stream output-id-1"><div class="output_subarea output_text"><pre> * sqlite:///vicks.db
+Done.
+5 rows affected.
+Done.
+</pre></div></div><div class="execute_result output-id-2"><div class="output_subarea output_html rendered_html"><table>
+    <tbody><tr>
+        <th>customer_id</th>
+        <th>customername</th>
+        <th>lastname</th>
+        <th>country</th>
+        <th>age</th>
+        <th>phone</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Shubham</td>
+        <td>Thakur</td>
+        <td>India</td>
+        <td>23</td>
+        <td>xxxxxxxxxx</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Aman</td>
+        <td>Chopra</td>
+        <td>Australia</td>
+        <td>21</td>
+        <td>xxxxxxxxxx</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Naveen</td>
+        <td>Tulasi</td>
+        <td>Sri Lanka</td>
+        <td>24</td>
+        <td>xxxxxxxxxx</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Aditya</td>
+        <td>Arpan</td>
+        <td>Austria</td>
+        <td>21</td>
+        <td>xxxxxxxxxx</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Nishant. Salchichas S.A.</td>
+        <td>Jain</td>
+        <td>Spain</td>
+        <td>22</td>
+        <td>xxxxxxxxxx</td>
+    </tr>
+</tbody></table></div></div></div><span id="output-footer"></span></div>
+
+
