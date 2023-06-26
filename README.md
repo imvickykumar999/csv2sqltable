@@ -1,12 +1,12 @@
-# Python Package : [csv2sqltable](https://pypi.org/project/csv2sqltable/)
+# `Python Package` : [`csv2sqltable`](https://pypi.org/project/csv2sqltable/)
 
-    pip install csv2sqltable -U
+    !pip install csv2sqltable -U
 
 ![image](https://github.com/imvickykumar999/csv2sqltable/assets/50515418/d10799b2-875d-46ff-81f6-565771f6c44f)
 
 -----------
 
-Input: `customer.csv`
+`Input` : `customer.csv`
 ------
 
 customer_id | customername | lastname | country | age | phone
@@ -17,14 +17,14 @@ customer_id | customername | lastname | country | age | phone
 4 | Aditya | Arpan | Austria | 21 | xxxxxxxxxx
 5 | "Nishant. Salchichas S.A." | Jain | Spain | 22 | xxxxxxxxxx
 
-Code: `run in google colab`
+`Code` : `run in google colab`
 -----
 
     import csv2sqltable.convert as c2s
     
     print(c2s.transform('customer.csv'))
     
-Output: `copy and paste in cell`
+`Output` : `copy and paste in cell`
 -------
 
     %%sql
@@ -49,7 +49,7 @@ Output: `copy and paste in cell`
     
     SELECT * FROM customer;
 
-Sub Output: `on ruuning magic sql command`
+`Sub Output` : `on ruuning magic sql command`
 -----------
 
 <div id="output-area"><span id="output-header"> </span><div id="output-body"><div class="stream output-id-1"><div class="output_subarea output_text"><pre> * sqlite:///vicks.db
