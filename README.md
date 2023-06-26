@@ -17,17 +17,29 @@ customer_id | customername | lastname | country | age | phone
 4 | Aditya | Arpan | Austria | 21 | xxxxxxxxxx
 5 | "Nishant. Salchichas S.A." | Jain | Spain | 22 | xxxxxxxxxx
 
+--------
+
 `Code` : `run in google colab`
 -----
 
     import csv2sqltable.convert as c2s
     
     print(c2s.transform('customer.csv'))
-    
+
+------------
+
 `Output` : `copy and paste in cell`
 -------
 
+    !pip install "SQLAlchemy<1.4"
+    
     %%sql
+    /*
+    %reload_ext sql
+    
+    %%sql sqlite:///vicks.db
+    */
+    
     -- DROP TABLE customer;
     
     CREATE TABLE customer (
@@ -48,6 +60,8 @@ customer_id | customername | lastname | country | age | phone
     ('5', 'Nishant. Salchichas S.A.', 'Jain', 'Spain', '22', 'xxxxxxxxxx');
     
     SELECT * FROM customer;
+
+------------
 
 `Sub Output` : `on ruuning magic sql command`
 -----------
