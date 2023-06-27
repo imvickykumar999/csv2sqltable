@@ -1,0 +1,10 @@
+ProductID,ProductName,SupplierID,CategoryID,Price
+1,Chais,1,1,18
+2,Chang,1,1,19
+3,"Aniseed Syrup",1,2,10
+4,"Chef Antons Cajun Seasoning",2,2,22
+5,"Chef Antons Gumbo Mix",2,2,21
+6,"Boysenberry Spread",3,2,25
+7,"Organic Dried",3,7,30
+8,"Northwoods Cranberry Sauce",3,2,40
+9,"Mishi Kobe Niku",4,6,97
