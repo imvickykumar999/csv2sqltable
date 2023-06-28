@@ -1,0 +1,1001 @@
+Cust_id,Customer_Name,City,State,Customer_Segment
+Cust_1,"MUHAMMED MACINTYRE",Kolkata,"West Bengal","SMALL BUSINESS"
+Cust_10,"CLAUDIA MINER",Kolkata,"West Bengal","SMALL BUSINESS"
+Cust_100,"CHARLOTTE MELTON",Mumbai,Maharashtra,"HOME OFFICE"
+Cust_1000,"JANE WACO",Mysore,Karnataka,CORPORATE
+Cust_1001,"SANDRA FLANAGAN",Mysore,Karnataka,"HOME OFFICE"
+Cust_1002,"STEVE NGUYEN",Mysore,Karnataka,CONSUMER
+Cust_1003,"HERBERT FLENTYE",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1004,"SANDRA FLANAGAN",Mysore,Karnataka,CORPORATE
+Cust_1005,"LIZ WILLINGHAM",Mysore,Karnataka,"HOME OFFICE"
+Cust_1006,"XYLONA PRICE",Mysore,Karnataka,CORPORATE
+Cust_1007,"JOHN LUCAS",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1008,"BILL OVERFELT",Mysore,Karnataka,CORPORATE
+Cust_1009,"JOHN GRADY",Mysore,Karnataka,CORPORATE
+Cust_101,"BARRY FRENCH",Mumbai,Maharashtra,CONSUMER
+Cust_1010,"ROBERT MARLEY",Mysore,Karnataka,CORPORATE
+Cust_1011,"MICK HERNANDEZ",Mysore,Karnataka,"HOME OFFICE"
+Cust_1012,"GUY PHONELY",Mysore,Karnataka,CORPORATE
+Cust_1013,"JAY KIMMEL",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1014,"MATT CONNELL",Mysore,Karnataka,CORPORATE
+Cust_1015,"STEVE NGUYEN",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1016,"VIVEK GRADY",Mysore,Karnataka,"HOME OFFICE"
+Cust_1017,"BEN FERRER",Mysore,Karnataka,CORPORATE
+Cust_1018,"KAREN DANIELS",Mysore,Karnataka,CONSUMER
+Cust_1019,"PAMELA COAKLEY",Mysore,Karnataka,CORPORATE
+Cust_102,"HENRY GOLDWYN",Mumbai,Maharashtra,"SMALL BUSINESS"
+Cust_1020,"KATHERINE NOCKTON",Mysore,Karnataka,"HOME OFFICE"
+Cust_1021,"DENNY BLANTON",Mysore,Karnataka,"HOME OFFICE"
+Cust_1022,"KATHERINE NOCKTON",Mysore,Karnataka,CORPORATE
+Cust_1023,"KEAN NGUYEN",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1024,"LAURA ARMSTRONG",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1025,"VIVEK GRADY",Mysore,Karnataka,CORPORATE
+Cust_1026,"LINDSAY SHAGIARI",Mysore,Karnataka,"HOME OFFICE"
+Cust_1027,"CATHY PRESCOTT",Mysore,Karnataka,CORPORATE
+Cust_1028,"LIZ WILLINGHAM",Mysore,Karnataka,CORPORATE
+Cust_1029,"STEPHANIE ULPRIGHT",Mysore,Karnataka,CONSUMER
+Cust_103,"ROY SKARIA",Mumbai,Maharashtra,CORPORATE
+Cust_1030,"ODELLA NELSON",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1031,"SALLY HUGHSBY",Mysore,Karnataka,"HOME OFFICE"
+Cust_1032,"ARTHUR PRICHEP",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1033,"RYAN AKIN",Mysore,Karnataka,CONSUMER
+Cust_1034,"SCOTT COHEN",Mysore,Karnataka,CONSUMER
+Cust_1035,"TODD SUMRALL",Mysore,Karnataka,CONSUMER
+Cust_1036,"ALEJANDRO GROVE",Mysore,Karnataka,CONSUMER
+Cust_1037,"TONY CHAPMAN",Mysore,Karnataka,CONSUMER
+Cust_1038,"JOHN CASTELL",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1039,"SARAH FOSTER",Mysore,Karnataka,CORPORATE
+Cust_104,"JEREMY LONSDALE",Mumbai,Maharashtra,CORPORATE
+Cust_1040,"LAURA ARMSTRONG",Mysore,Karnataka,CORPORATE
+Cust_1041,"JOHN CASTELL",Mysore,Karnataka,CONSUMER
+Cust_1042,"GREG HANSEN",Mysore,Karnataka,"HOME OFFICE"
+Cust_1043,"DARRIN MARTIN",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1044,"KEN BRENNAN",Mysore,Karnataka,CONSUMER
+Cust_1045,"MAX JONES",Mysore,Karnataka,"HOME OFFICE"
+Cust_1046,"KEN BRENNAN",Mysore,Karnataka,"HOME OFFICE"
+Cust_1047,"JOE KAMBEROVA",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1048,"BARRY FRANZ",Mysore,Karnataka,CORPORATE
+Cust_1049,"FILIA MCADAMS",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_105,"CARLOS DALY",Mumbai,Maharashtra,CORPORATE
+Cust_1050,"MAUREEN FRITZLER",Mysore,Karnataka,CORPORATE
+Cust_1051,"DENNIS BOLTON",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1052,"ART FOSTER",Mysore,Karnataka,"HOME OFFICE"
+Cust_1053,"ERICA HACKNEY",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1054,"DON WEISS",Mysore,Karnataka,CORPORATE
+Cust_1055,"JESSICA MYRICK",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1056,"BRUCE DEGENHARDT",Mysore,Karnataka,"HOME OFFICE"
+Cust_1057,"JENNA CAFFEY",Mysore,Karnataka,CONSUMER
+Cust_1058,"KALYCA MEADE",Mysore,Karnataka,CORPORATE
+Cust_1059,"TROY BLACKWELL",Mysore,Karnataka,"HOME OFFICE"
+Cust_106,"CINDY SCHNELLING",Mumbai,Maharashtra,CORPORATE
+Cust_1060,"CLYTIE KELTY",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1061,"MARK COUSINS",Mysore,Karnataka,"HOME OFFICE"
+Cust_1062,"JIM SINK",Mysore,Karnataka,CORPORATE
+Cust_1063,"STEVEN ROELLE",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1064,"FRED WASSERMAN",Mysore,Karnataka,"HOME OFFICE"
+Cust_1065,"BETH THOMPSON",Mysore,Karnataka,CORPORATE
+Cust_1066,"PETE TAKAHITO",Mysore,Karnataka,CORPORATE
+Cust_1067,"ROB HABERLIN",Mysore,Karnataka,CONSUMER
+Cust_1068,"ROB HABERLIN",Mysore,Karnataka,CORPORATE
+Cust_1069,"HALLIE REDMOND",Mysore,Karnataka,"HOME OFFICE"
+Cust_107,"SUSAN VITTORINI",Mumbai,Maharashtra,CORPORATE
+Cust_1070,"KATRINA WILLMAN",Mysore,Karnataka,CONSUMER
+Cust_1071,"BENJAMIN PATTERSON",Mysore,Karnataka,CORPORATE
+Cust_1072,"MARK COUSINS",Mysore,Karnataka,CORPORATE
+Cust_1073,"GENE MCCLURE",Mysore,Karnataka,CONSUMER
+Cust_1074,"DENNY JOY",Mysore,Karnataka,CORPORATE
+Cust_1075,"HALLIE REDMOND",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1076,"AMY COX",Mysore,Karnataka,"HOME OFFICE"
+Cust_1077,"KRISTEN HASTINGS",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1078,"KRISTEN HASTINGS",Mysore,Karnataka,CORPORATE
+Cust_1079,"BENJAMIN VENIER",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_108,"TOBY BRAUNHARDT",Mumbai,Maharashtra,CORPORATE
+Cust_1080,"KATHERINE MURRAY",Mysore,Karnataka,"HOME OFFICE"
+Cust_1081,"ALAN SCHOENBERGER",Mysore,Karnataka,CORPORATE
+Cust_1082,"MARK PACKER",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1083,"ERIC BARRETO",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1084,"KARL BROWN",Mysore,Karnataka,CORPORATE
+Cust_1085,"KARL BROWN",Mysore,Karnataka,"HOME OFFICE"
+Cust_1086,"BEN PETERMAN",Mysore,Karnataka,CORPORATE
+Cust_1087,"DAVE POIRIER",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1088,"AARON HAWKINS",Mysore,Karnataka,"HOME OFFICE"
+Cust_1089,"RICK DUSTON",Mysore,Karnataka,CORPORATE
+Cust_109,"JULIA WEST",Mumbai,Maharashtra,CONSUMER
+Cust_1090,"ALEX GRAYSON",Mysore,Karnataka,CONSUMER
+Cust_1091,"DIANNA WILSON",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1092,"ERICA HERNANDEZ",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1093,"CHRISTY BRITTAIN",Mysore,Karnataka,CONSUMER
+Cust_1094,"DAVID KENDRICK",Mysore,Karnataka,"HOME OFFICE"
+Cust_1095,"PAUL LUCAS",Mysore,Karnataka,CORPORATE
+Cust_1096,"RAYMOND FAIR",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1097,"DEBRA CATINI",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1098,"FRED MCMATH",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1099,"ASTREA JONES",Mysore,Karnataka,CORPORATE
+Cust_11,"ALLEN ROSENBLATT",Kolkata,"West Bengal","SMALL BUSINESS"
+Cust_110,"SUSAN VITTORINI",Mumbai,Maharashtra,"HOME OFFICE"
+Cust_1100,"TROY STAEBEL",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1101,"ALEJANDRO SAVELY",Mysore,Karnataka,CORPORATE
+Cust_1102,"CHRIS CORTES",Mysore,Karnataka,CONSUMER
+Cust_1103,"CRAIG YEDWAB",Mysore,Karnataka,CONSUMER
+Cust_1104,"ALAN SHONELY",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1105,"BECKY MARTIN",Mysore,Karnataka,"HOME OFFICE"
+Cust_1106,"TONY MOLINARI",Mysore,Karnataka,CORPORATE
+Cust_1107,"STEFANIA PERRINO",Mysore,Karnataka,CORPORATE
+Cust_1108,"HUNTER LOPEZ",Mysore,Karnataka,CONSUMER
+Cust_1109,"DIANNA ARNETT",Mysore,Karnataka,"HOME OFFICE"
+Cust_111,"MIKE PELLETIER",Mumbai,Maharashtra,"SMALL BUSINESS"
+Cust_1110,"GIULIETTA DORTCH",Mysore,Karnataka,CORPORATE
+Cust_1111,"MICHAEL KENNEDY",Mysore,Karnataka,CORPORATE
+Cust_1112,"ELENI MCCRARY",Mysore,Karnataka,"HOME OFFICE"
+Cust_1113,"ELENI MCCRARY",Mysore,Karnataka,CORPORATE
+Cust_1114,"GEORGE ZREBASSA",Mysore,Karnataka,"HOME OFFICE"
+Cust_1115,"DEANRA ENO",Mysore,Karnataka,CORPORATE
+Cust_1116,"SARA LUXEMBURG",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1117,"PIERRE WENER",Mysore,Karnataka,"HOME OFFICE"
+Cust_1118,"ERIC BARRETO",Mysore,Karnataka,CONSUMER
+Cust_1119,"DAN CAMPBELL",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_112,"NEOLA SCHNEIDER",Mumbai,Maharashtra,"HOME OFFICE"
+Cust_1120,"PAUL KNUTSON",Mysore,Karnataka,CORPORATE
+Cust_1121,"JENNIFER PATT",Mysore,Karnataka,"HOME OFFICE"
+Cust_1122,"CHUCK SACHS",Mysore,Karnataka,CONSUMER
+Cust_1123,"DENISE LEINENBACH",Mysore,Karnataka,"HOME OFFICE"
+Cust_1124,"CATHY HWANG",Mysore,Karnataka,"HOME OFFICE"
+Cust_1125,"EVAN HENRY",Mysore,Karnataka,CORPORATE
+Cust_1126,"CARLOS MEADOR",Mysore,Karnataka,CORPORATE
+Cust_1127,"BOBBY ELIAS",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1128,"KEAN THORNTON",Mysore,Karnataka,CORPORATE
+Cust_1129,"BRIAN STUGART",Mysore,Karnataka,CORPORATE
+Cust_113,"CARI SCHNELLING",Mumbai,Maharashtra,"SMALL BUSINESS"
+Cust_1130,"GRANT DONATELLI",Mysore,Karnataka,CONSUMER
+Cust_1131,"JASON FORTUNE",Mysore,Karnataka,CORPORATE
+Cust_1132,"DAVE BROOKS",Mysore,Karnataka,CORPORATE
+Cust_1133,"JIM KARLSSON",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1134,"PHILIP FOX",Mysore,Karnataka,"HOME OFFICE"
+Cust_1135,"GRANT CARROLL",Mysore,Karnataka,CORPORATE
+Cust_1136,"GRANT CARROLL",Mysore,Karnataka,"SMALL BUSINESS"
+Cust_1137,"IONIA MCGRATH",Hyderabad,Telangana,"HOME OFFICE"
+Cust_1138,"LORI OLSON",Hyderabad,Telangana,CONSUMER
+Cust_1139,"QUINCY JONES",Hyderabad,Telangana,"HOME OFFICE"
+Cust_114,"ANDREW GJERTSEN",Mumbai,Maharashtra,CONSUMER
+Cust_1140,"PATRICK JONES",Hyderabad,Telangana,"HOME OFFICE"
+Cust_1141,"IONIA MCGRATH",Hyderabad,Telangana,"SMALL BUSINESS"
+Cust_1142,"NATHAN MAUTZ",Hyderabad,Telangana,CORPORATE
+Cust_1143,"NATHAN MAUTZ",Hyderabad,Telangana,"HOME OFFICE"
+Cust_1144,"KAREN SEIO",Hyderabad,Telangana,CONSUMER
+Cust_1145,"KEN LONSDALE",Hyderabad,Telangana,CONSUMER
+Cust_1146,"PATRICK GARDNER",Hyderabad,Telangana,CONSUMER
+Cust_1147,"QUINCY JONES",Hyderabad,Telangana,CORPORATE
+Cust_1148,"NONA BALK",Hyderabad,Telangana,CORPORATE
+Cust_1149,"ERIN MULL",Hyderabad,Telangana,"SMALL BUSINESS"
+Cust_115,"RALPH ARNETT",Mumbai,Maharashtra,CONSUMER
+Cust_1150,"JOHN LEE",Hyderabad,Telangana,CORPORATE
+Cust_1151,"EMILY PHAN",Hyderabad,Telangana,CONSUMER
+Cust_1152,"ERIN MULL",Hyderabad,Telangana,CORPORATE
+Cust_1153,"JUSTIN DEGGELLER",Hyderabad,Telangana,CORPORATE
+Cust_1154,"TONY SAYRE",Hyderabad,Telangana,"HOME OFFICE"
+Cust_1155,"KEITH DAWKINS",Cochin,Kerala,"HOME OFFICE"
+Cust_1156,"JOE ELIJAH",Cochin,Kerala,"HOME OFFICE"
+Cust_1157,"SHERI GORDON",Cochin,Kerala,CORPORATE
+Cust_1158,"STEFANIE HOLLOMAN",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1159,"KEN BLACK",Cochin,Kerala,CONSUMER
+Cust_116,"BRYAN MILLS",Mumbai,Maharashtra,CORPORATE
+Cust_1160,"LINDSAY WILLIAMS",Cochin,Kerala,CORPORATE
+Cust_1161,"LOGAN CURRIE",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1162,"STEVE CHAPMAN",Cochin,Kerala,CORPORATE
+Cust_1163,"MARC CRIER",Cochin,Kerala,CORPORATE
+Cust_1164,"DAVE BROOKS",Cochin,Kerala,CORPORATE
+Cust_1165,"DEBORAH BRUMFIELD",Cochin,Kerala,CORPORATE
+Cust_1166,"SCOT WOOTEN",Cochin,Kerala,CORPORATE
+Cust_1167,"NICOLE BRENNAN",Cochin,Kerala,CONSUMER
+Cust_1168,"JOHN LEE",Cochin,Kerala,CORPORATE
+Cust_1169,"DENISE MONTON",Cochin,Kerala,"HOME OFFICE"
+Cust_117,"GRANT CARROLL",Coimbatore,"Tamil Nadu","SMALL BUSINESS"
+Cust_1170,"DEBORAH BRUMFIELD",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1171,"MARC CRIER",Cochin,Kerala,CONSUMER
+Cust_1172,"CYNTHIA DELANEY",Cochin,Kerala,CORPORATE
+Cust_1173,"ED BRAXTON",Cochin,Kerala,"HOME OFFICE"
+Cust_1174,"ED BRAXTON",Cochin,Kerala,CONSUMER
+Cust_1175,"PHILLIP FLATHMANN",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1176,"COREY CATLETT",Cochin,Kerala,"HOME OFFICE"
+Cust_1177,"VALERIE TAKAHITO",Cochin,Kerala,CONSUMER
+Cust_1178,"PENELOPE SEWALL",Cochin,Kerala,"HOME OFFICE"
+Cust_1179,"SEAN BRAXTON",Cochin,Kerala,"SMALL BUSINESS"
+Cust_118,"JULIA WEST",Coimbatore,"Tamil Nadu",CONSUMER
+Cust_1180,"VALERIE DOMINGUEZ",Cochin,Kerala,CORPORATE
+Cust_1181,"SUSAN MACKENDRICK",Cochin,Kerala,CORPORATE
+Cust_1182,"THAIS SISSMAN",Cochin,Kerala,CORPORATE
+Cust_1183,"TANJA NORVELL",Cochin,Kerala,CONSUMER
+Cust_1184,"LINDA SOUTHWORTH",Cochin,Kerala,CONSUMER
+Cust_1185,"MICHAEL MOORE",Cochin,Kerala,CORPORATE
+Cust_1186,"PATRICK RYAN",Cochin,Kerala,CORPORATE
+Cust_1187,"TROY BLACKWELL",Cochin,Kerala,"HOME OFFICE"
+Cust_1188,"THAIS SISSMAN",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1189,"ROSS BAIRD",Cochin,Kerala,CORPORATE
+Cust_119,"MUHAMMED MACINTYRE",Coimbatore,"Tamil Nadu","SMALL BUSINESS"
+Cust_1190,"TRACY ZIC",Cochin,Kerala,CONSUMER
+Cust_1191,"JACK GARZA",Cochin,Kerala,CORPORATE
+Cust_1192,"GARY MCGARR",Cochin,Kerala,"HOME OFFICE"
+Cust_1193,"MICK CREBAGGA",Cochin,Kerala,"HOME OFFICE"
+Cust_1194,"ROY SKARIA",Cochin,Kerala,CORPORATE
+Cust_1195,"STEVEN WARD",Cochin,Kerala,CONSUMER
+Cust_1196,"TANJA NORVELL",Cochin,Kerala,CORPORATE
+Cust_1197,"RYAN CROWE",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1198,"IRENE MADDOX",Cochin,Kerala,CONSUMER
+Cust_1199,"NICK RADFORD",Cochin,Kerala,CORPORATE
+Cust_12,"SYLVIA FOULSTON",Kolkata,"West Bengal","HOME OFFICE"
+Cust_120,"SUSAN VITTORINI",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1200,"THERESA SWINT",Cochin,Kerala,CONSUMER
+Cust_1201,"MAURICE SATTY",Cochin,Kerala,CORPORATE
+Cust_1202,"HENRY GOLDWYN",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1203,"VICTOR PRICE",Cochin,Kerala,CONSUMER
+Cust_1204,"MAUREEN GRACE",Cochin,Kerala,CORPORATE
+Cust_1205,"ERIC HOFFMANN",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1206,"JILL STEVENSON",Cochin,Kerala,CONSUMER
+Cust_1207,"EVAN BAILLIET",Cochin,Kerala,CORPORATE
+Cust_1208,"MEG TILLMAN",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1209,"RUSSELL DASCENZO",Cochin,Kerala,CONSUMER
+Cust_121,"SYLVIA FOULSTON",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1210,"GARY HWANG",Cochin,Kerala,"HOME OFFICE"
+Cust_1211,"JOSEPH AIRDO",Cochin,Kerala,CONSUMER
+Cust_1212,"EMILY DUCICH",Cochin,Kerala,CONSUMER
+Cust_1213,"STEWART VISINSKY",Cochin,Kerala,CORPORATE
+Cust_1214,"STEVEN CARTWRIGHT",Cochin,Kerala,"HOME OFFICE"
+Cust_1215,"SUE ANN REED",Cochin,Kerala,CONSUMER
+Cust_1216,"SANJIT ENGLE",Cochin,Kerala,"HOME OFFICE"
+Cust_1217,"KATHERINE DUCICH",Cochin,Kerala,CORPORATE
+Cust_1218,"MIKE GOCKENBACH",Cochin,Kerala,CONSUMER
+Cust_1219,"TOM ZANDUSKY",Cochin,Kerala,"HOME OFFICE"
+Cust_122,"DOUG BICKFORD",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1220,"DENNY JOY",Cochin,Kerala,CORPORATE
+Cust_1221,"HENIA ZYDLO",Cochin,Kerala,"HOME OFFICE"
+Cust_1222,"TRACY COLLINS",Cochin,Kerala,CONSUMER
+Cust_1223,"NATALIE WEBBER",Cochin,Kerala,CONSUMER
+Cust_1224,"TOBY KNIGHT",Cochin,Kerala,CONSUMER
+Cust_1225,"MARIA ZETTNER",Cochin,Kerala,CORPORATE
+Cust_1226,"THEA HUDGINGS",Cochin,Kerala,CONSUMER
+Cust_1227,"NATALIE WEBBER",Cochin,Kerala,CORPORATE
+Cust_1228,"NORA PELLETIER",Cochin,Kerala,CORPORATE
+Cust_1229,"MATTHEW CLASEN",Cochin,Kerala,CONSUMER
+Cust_123,"DOROTHY BADDERS",Coimbatore,"Tamil Nadu","HOME OFFICE"
+Cust_1230,"NORA PELLETIER",Cochin,Kerala,"HOME OFFICE"
+Cust_1231,"MICK CREBAGGA",Cochin,Kerala,CORPORATE
+Cust_1232,"JAMIE FRAZER",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1233,"MICHAEL OAKMAN",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1234,"JOSEPH AIRDO",Cochin,Kerala,CORPORATE
+Cust_1235,"TRACY COLLINS",Cochin,Kerala,CORPORATE
+Cust_1236,"RACHEL PAYNE",Cochin,Kerala,CONSUMER
+Cust_1237,"CRAIG MOLINARI",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1238,"JOY DANIELS",Cochin,Kerala,CORPORATE
+Cust_1239,"JILL FJELD",Cochin,Kerala,"HOME OFFICE"
+Cust_124,"HENRY GOLDWYN",Coimbatore,"Tamil Nadu","SMALL BUSINESS"
+Cust_1240,"GENE MCCLURE",Cochin,Kerala,CONSUMER
+Cust_1241,"RICK BENSLEY",Cochin,Kerala,CONSUMER
+Cust_1242,"THOMAS BRUMLEY",Cochin,Kerala,CONSUMER
+Cust_1243,"DARRIN MARTIN",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1244,"JULIE KRIZ",Cochin,Kerala,CORPORATE
+Cust_1245,"RUSSELL APPLEGATE",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1246,"ERIC BARRETO",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1247,"GENE MCCLURE",Cochin,Kerala,"HOME OFFICE"
+Cust_1248,"TOBY KNIGHT",Cochin,Kerala,CORPORATE
+Cust_1249,"MARIBETH SCHNELLING",Cochin,Kerala,CORPORATE
+Cust_125,"CHAD CUNNINGHAM",Coimbatore,"Tamil Nadu","SMALL BUSINESS"
+Cust_1250,"ARTHUR GAINER",Cochin,Kerala,CONSUMER
+Cust_1251,"THERESA SWINT",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1252,"HARRY MARIE",Cochin,Kerala,CONSUMER
+Cust_1253,"RACHEL PAYNE",Cochin,Kerala,"HOME OFFICE"
+Cust_1254,"ELPIDA RITTENBACH",Cochin,Kerala,CONSUMER
+Cust_1255,"RUSSELL APPLEGATE",Cochin,Kerala,"HOME OFFICE"
+Cust_1256,"ROLAND MURRAY",Cochin,Kerala,"HOME OFFICE"
+Cust_1257,"ARTHUR GAINER",Cochin,Kerala,CORPORATE
+Cust_1258,"PETER FULLER",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1259,"SAM CRAVEN",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_126,"BETH THOMPSON",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1260,"MITCH WILLINGHAM",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1261,"JOHN DRYER",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1262,"SUSAN GILCREST",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1263,"KEN HEIDEL",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1264,"PATRICK RYAN",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1265,"RANDY BRADLEY",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1266,"WILLIAM BROWN",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1267,"RICK HANSEN",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1268,"TOBY GRACE",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1269,"JOSEPH HOLT",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_127,"ANDREW GJERTSEN",Coimbatore,"Tamil Nadu",CONSUMER
+Cust_1270,"MAYA HERMAN",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1271,"RICK HANSEN",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1272,"ASHLEY JARBOE",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1273,"RANDY BRADLEY",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1274,"WILLIAM BROWN",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1275,"ASHLEY JARBOE",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1276,"PAULINE WEBBER",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1277,"MATT COLLISTER",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1278,"KEAN TAKAHITO",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1279,"JULIA DUNBAR",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_128,"MICHELLE LONSDALE",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1280,"NICK ZANDUSKY",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1281,"PETER FULLER",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1282,"NEOMA MURRAY",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1283,"SUNG CHUNG",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1284,"DARRIN VAN HUFF",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1285,"BRIAN MOSS",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1286,"MAX LUDWIG",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1287,"MICHELLE MORAY",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1288,"EVA JACOBS",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1289,"CRAIG RIDER",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_129,"CARI SCHNELLING",Coimbatore,"Tamil Nadu","SMALL BUSINESS"
+Cust_1290,"MARIBETH YEDWAB",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1291,"CINDY SCHNELLING",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1292,"EUGENE MOREN",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1293,"LIZ PRICE",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1294,"LIZ PRICE",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1295,"MARK VAN HUFF",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1296,"STEFANIA PERRINO",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1297,"MARK HAMILTON",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1298,"CHUCK MAGEE",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1299,"SUNG SHARIARI",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_13,"JIM RADFORD",Kolkata,"West Bengal",CORPORATE
+Cust_130,"EDWARD HOOKS",Coimbatore,"Tamil Nadu",CONSUMER
+Cust_1300,"NONA BALK",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1301,"TOM STIVERS",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1302,"RICHARD EICHHORN",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1303,"NEIL FRENCH",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1304,"NEIL FRENCH",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1305,"NICOLE FJELD",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1306,"SUZANNE MCNAIR",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1307,"ANDY REITER",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1308,"SUZANNE MCNAIR",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1309,"SUSAN PISTEK",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_131,"BRENDAN DODSON",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1310,"NICK CREBASSA",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1311,"TOM STIVERS",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1312,"ROB BEEGHLY",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1313,"ALEKSANDRA GANNAWAY",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1314,"ALEKSANDRA GANNAWAY",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1315,"ROBERT WALDORF",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1316,"BRENDA BOWMAN",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1317,"CARL WEISS",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1318,"JACK OBRIANT",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1319,"JOEL EATON",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_132,"HAROLD ENGLE",Coimbatore,"Tamil Nadu",CONSUMER
+Cust_1320,"JUSTIN ELLISON",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1321,"JENNIFER JACKSON",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1322,"MICHAEL OAKMAN",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1323,"JACK OBRIANT",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1324,"JACK OBRIANT",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1325,"KAREN BERN",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1326,"KRISTEN HASTINGS",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1327,"MEG TILLMAN",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1328,"LIZ PELLETIER",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1329,"JONATHAN DOHERTY",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_133,"ROY FRENCH",Coimbatore,"Tamil Nadu",CONSUMER
+Cust_1330,"FRANK GASTINEAU",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1331,"JANET LEE",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1332,"RICK WILSON",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1333,"LYCORIS SAUNDERS",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1334,"MAXWELL SCHWARTZ",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1335,"LIZ CARLISLE",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1336,"NEIL KNUDSON",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1337,"DENISE MONTON",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1338,"LYCORIS SAUNDERS",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1339,"KELLY COLLISTER",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_134,"HELEN ABELMAN",Coimbatore,"Tamil Nadu","HOME OFFICE"
+Cust_1340,"DENNIS PARDUE",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1341,"DENNIS PARDUE",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1342,"NEIL KNUDSON",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1343,"JOHN HUSTON",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1344,"MARYBETH SKACH",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1345,"RICK WILSON",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1346,"ANTHONY GARVERICK",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1347,"LINDSAY CASTELL",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1348,"JUSTIN DEGGELLER",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1349,"LINDSAY CASTELL",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_135,"GUY ARMSTRONG",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1350,"LIZ PELLETIER",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1351,"CRAIG CARREIRA",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1352,"PAUL STEVENSON",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1353,"GREG HANSEN",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1354,"BILL EPLETT",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1355,"JEREMY LONSDALE",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1356,"IONIA MCGRATH",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1357,"IONIA MCGRATH",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1358,"EMILY GRADY",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1359,"VALERIE TAKAHITO",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_136,"JENNIFER BRAXTON",Coimbatore,"Tamil Nadu","SMALL BUSINESS"
+Cust_1360,"LUKE SCHMIDT",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1361,"KELLY ANDREADA",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1362,"JASON KLAMCZYNSKI",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1363,"TRACY HOPKINS",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1364,"CRAIG LESLIE",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1365,"MICHAEL GRACE",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1366,"SAPHHIRA SHIFLEY",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1367,"SAPHHIRA SHIFLEY",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1368,"LAUREL BELTRAN",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1369,"TRACY BLUMSTEIN",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_137,"GIULIETTA BAPTIST",Coimbatore,"Tamil Nadu","HOME OFFICE"
+Cust_1370,"LARRY BLACKS",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1371,"HAROLD DAHLEN",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1372,"HAROLD DAHLEN",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1373,"RICHARD BIERNER",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1374,"TIFFANY HOUSE",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1375,"ROY COLLINS",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1376,"TOBY SWINDELL",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1377,"SARAH BROWN",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1378,"CHRISTINA ANDERSON",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1379,"ROBERT DILBECK",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_138,"JACK LEBRON",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1380,"RANDY FERGUSON",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1381,"ARIANNE IRVING",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1382,"RANDY FERGUSON",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1383,"CYNTHIA ARNTZEN",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1384,"ANDY GERBODE",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1385,"AMY HUNT",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1386,"CRAIG MOLINARI",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1387,"TRUDY BROWN",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1388,"AMY HUNT",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1389,"PHILIP FOX",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_139,"ERICA BERN",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1390,"BRIAN DAHLEN",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1391,"BETH FRITZLER",Kanyakumari,"Tamil Nadu","SMALL BUSINESS"
+Cust_1392,"BROSINA HOFFMAN",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1393,"AMY HUNT",Kanyakumari,"Tamil Nadu",CONSUMER
+Cust_1394,"CYNTHIA ARNTZEN",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1395,"JENNIFER FERGUSON",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1396,"PAUL PROST",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1397,"TOBY CARLISLE",Kanyakumari,"Tamil Nadu","HOME OFFICE"
+Cust_1398,"ANTHONY WITT",Kanyakumari,"Tamil Nadu",CORPORATE
+Cust_1399,"PHILLINA OBER",Hyderabad,Telangana,"SMALL BUSINESS"
+Cust_14,"CARL LUDWIG",Kolkata,"West Bengal",CORPORATE
+Cust_140,"CHRISTOPHER SCHILD",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1400,"JIM EPP",Hyderabad,Telangana,"SMALL BUSINESS"
+Cust_1401,"MUHAMMED YEDWAB",Hyderabad,Telangana,CONSUMER
+Cust_1402,"MARIBETH SCHNELLING",Hyderabad,Telangana,CORPORATE
+Cust_1403,"DEANRA ENO",Hyderabad,Telangana,CORPORATE
+Cust_1404,"JAMES GALANG",Hyderabad,Telangana,CONSUMER
+Cust_1405,"KATRINA WILLMAN",Hyderabad,Telangana,CONSUMER
+Cust_1406,"NORA PRICE",Hyderabad,Telangana,"HOME OFFICE"
+Cust_1407,"LISA DECHERNEY",Hyderabad,Telangana,CORPORATE
+Cust_1408,"LYNN SMITH",Hyderabad,Telangana,CORPORATE
+Cust_1409,"CHRISTINA DEMOSS",Hyderabad,Telangana,"HOME OFFICE"
+Cust_141,"JOY SMITH",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1410,"CHRISTINE ABELMAN",Hyderabad,Telangana,CORPORATE
+Cust_1411,"NORA PRICE",Hyderabad,Telangana,"SMALL BUSINESS"
+Cust_1412,"MARIBETH DONA",Hyderabad,Telangana,"HOME OFFICE"
+Cust_1413,"PAULINE JOHNSON",Hyderabad,Telangana,CORPORATE
+Cust_1414,"JOCASTA RUPERT",Hyderabad,Telangana,CONSUMER
+Cust_1415,"LAUREL ELLISTON",Hyderabad,Telangana,CORPORATE
+Cust_1416,"GEORGIA ROSENBERG",Hyderabad,Telangana,CONSUMER
+Cust_1417,"ALLEN ARMOLD",Hyderabad,Telangana,"HOME OFFICE"
+Cust_1418,"ANEMONE RATNER",Hyderabad,Telangana,"SMALL BUSINESS"
+Cust_1419,"KATHERINE HUGHES",Hyderabad,Telangana,CONSUMER
+Cust_142,"EVAN MINNOTTE",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1420,"TRACY COLLINS",Hyderabad,Telangana,CONSUMER
+Cust_1421,"LIZ MACKENDRICK",Hyderabad,Telangana,CORPORATE
+Cust_1422,"ALAN HWANG",Hyderabad,Telangana,CORPORATE
+Cust_1423,"ALAN HWANG",Hyderabad,Telangana,"SMALL BUSINESS"
+Cust_1424,"TRACY COLLINS",Hyderabad,Telangana,CORPORATE
+Cust_1425,"RICHARD BIERNER",Hyderabad,Telangana,"SMALL BUSINESS"
+Cust_1426,"BRUCE STEWART",Hyderabad,Telangana,CORPORATE
+Cust_1427,"ALEKSANDRA GANNAWAY",Hyderabad,Telangana,CORPORATE
+Cust_1428,"BRENDAN SWEED",Hyderabad,Telangana,CONSUMER
+Cust_1429,"LAUREL ELLISTON",Hyderabad,Telangana,"HOME OFFICE"
+Cust_143,"JENNA CAFFEY",Coimbatore,"Tamil Nadu",CONSUMER
+Cust_1430,"DEAN PERCER",Hyderabad,Telangana,"HOME OFFICE"
+Cust_1431,"LISA DECHERNEY",Hyderabad,Telangana,CONSUMER
+Cust_1432,"DEAN PERCER",Hyderabad,Telangana,CONSUMER
+Cust_1433,"AIMEE BIXBY",Hyderabad,Telangana,"HOME OFFICE"
+Cust_1434,"PHILLIP BREYER",Hyderabad,Telangana,CORPORATE
+Cust_1435,"CRAIG YEDWAB",Trivandrum,Kerala,CONSUMER
+Cust_1436,"DARIO MEDINA",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1437,"ED BRAXTON",Trivandrum,Kerala,CONSUMER
+Cust_1438,"CINDY CHAPMAN",Trivandrum,Kerala,CONSUMER
+Cust_1439,"ASHLEY JARBOE",Trivandrum,Kerala,"HOME OFFICE"
+Cust_144,"HAROLD ENGLE",Coimbatore,"Tamil Nadu","HOME OFFICE"
+Cust_1440,"BENJAMIN FARHAT",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1441,"CINDY CHAPMAN",Trivandrum,Kerala,CORPORATE
+Cust_1442,"BRUCE DEGENHARDT",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1443,"DIANNA VITTORINI",Trivandrum,Kerala,CORPORATE
+Cust_1444,"CINDY STEWART",Trivandrum,Kerala,CORPORATE
+Cust_1445,"ED BRAXTON",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1446,"QUINCY JONES",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1447,"QUINCY JONES",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1448,"QUINCY JONES",Trivandrum,Kerala,CORPORATE
+Cust_1449,"ROB WILLIAMS",Trivandrum,Kerala,"HOME OFFICE"
+Cust_145,"HILARY HOLDEN",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1450,"BENJAMIN PATTERSON",Trivandrum,Kerala,CORPORATE
+Cust_1451,"ANNA CHUNG",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1452,"RICARDO BLOCK",Trivandrum,Kerala,CORPORATE
+Cust_1453,"ASHLEY JARBOE",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1454,"CRAIG YEDWAB",Trivandrum,Kerala,CORPORATE
+Cust_1455,"CINDY STEWART",Trivandrum,Kerala,CONSUMER
+Cust_1456,"TRUDY BELL",Trivandrum,Kerala,CONSUMER
+Cust_1457,"BRAD THOMAS",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1458,"BART FOLK",Trivandrum,Kerala,CORPORATE
+Cust_1459,"PAUL LUCAS",Trivandrum,Kerala,CORPORATE
+Cust_146,"GREG GUTHRIE",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1460,"DEAN PERCER",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1461,"ROBERT BARROSO",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1462,"BRAD THOMAS",Trivandrum,Kerala,CORPORATE
+Cust_1463,"DAVID KENDRICK",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1464,"LUKE FOSTER",Trivandrum,Kerala,CORPORATE
+Cust_1465,"MAUREEN GASTINEAU",Trivandrum,Kerala,CONSUMER
+Cust_1466,"ED JACOBS",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1467,"DAVE POIRIER",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1468,"ALEKSANDRA GANNAWAY",Trivandrum,Kerala,CORPORATE
+Cust_1469,"KEAN THORNTON",Trivandrum,Kerala,CORPORATE
+Cust_147,"JOY SMITH",Coimbatore,"Tamil Nadu",CONSUMER
+Cust_1470,"ROB LUCAS",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1471,"NORA PAIGE",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1472,"ERIC BARRETO",Trivandrum,Kerala,CONSUMER
+Cust_1473,"SARA LUXEMBURG",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1474,"ADAM HART",Trivandrum,Kerala,CORPORATE
+Cust_1475,"BOBBY ELIAS",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1476,"ROLAND FJELD",Trivandrum,Kerala,CORPORATE
+Cust_1477,"BILL SHONELY",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1478,"DENNY ORDWAY",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1479,"BILL TYLER",Trivandrum,Kerala,CONSUMER
+Cust_148,"DAN REICHENBACH",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1480,"ALAN SCHOENBERGER",Trivandrum,Kerala,CORPORATE
+Cust_1481,"CHARLES CRESTANI",Trivandrum,Kerala,CONSUMER
+Cust_1482,"CHRISTY BRITTAIN",Trivandrum,Kerala,CONSUMER
+Cust_1483,"BRADLEY DRUCKER",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1484,"BRYAN SPRUELL",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1485,"TOM PRESCOTT",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1486,"ERIC BARRETO",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1487,"KARL BROWN",Trivandrum,Kerala,CORPORATE
+Cust_1488,"THOMAS THORNTON",Trivandrum,Kerala,CONSUMER
+Cust_1489,"ANTHONY GARVERICK",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_149,"PAUL GONZALEZ",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1490,"TAMARA WILLINGHAM",Trivandrum,Kerala,CORPORATE
+Cust_1491,"DAN CAMPBELL",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1492,"THEA HENDRICKS",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1493,"GIULIETTA DORTCH",Trivandrum,Kerala,CORPORATE
+Cust_1494,"MARK HABERLIN",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1495,"EVAN HENRY",Trivandrum,Kerala,CORPORATE
+Cust_1496,"GRANT THORNTON",Trivandrum,Kerala,CORPORATE
+Cust_1497,"GIULIETTA DORTCH",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1498,"ELLIS BALLARD",Trivandrum,Kerala,CORPORATE
+Cust_1499,"ERIC MURDOCK",Trivandrum,Kerala,"HOME OFFICE"
+Cust_15,"DON MILLER",Kolkata,"West Bengal","HOME OFFICE"
+Cust_150,"FILIA MCADAMS",Coimbatore,"Tamil Nadu","SMALL BUSINESS"
+Cust_1500,"JILL FJELD",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1501,"ANNE MCFARLAND",Trivandrum,Kerala,CONSUMER
+Cust_1502,"ASTREA JONES",Trivandrum,Kerala,CORPORATE
+Cust_1503,"PETER BUHLER",Trivandrum,Kerala,CONSUMER
+Cust_1504,"DEAN KATZ",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1505,"KAREN CARLISLE",Trivandrum,Kerala,CORPORATE
+Cust_1506,"CARLOS MEADOR",Trivandrum,Kerala,CORPORATE
+Cust_1507,"GIULIETTA DORTCH",Trivandrum,Kerala,CONSUMER
+Cust_1508,"KARL BROWN",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1509,"JENNIFER PATT",Trivandrum,Kerala,"HOME OFFICE"
+Cust_151,"GREG GUTHRIE",Coimbatore,"Tamil Nadu","SMALL BUSINESS"
+Cust_1510,"CYNTHIA VOLTZ",Trivandrum,Kerala,CORPORATE
+Cust_1511,"BARRY POND",Trivandrum,Kerala,CONSUMER
+Cust_1512,"TONY MOLINARI",Trivandrum,Kerala,CORPORATE
+Cust_1513,"JULIA BARNETT",Trivandrum,Kerala,CORPORATE
+Cust_1514,"JEREMY PISTEK",Trivandrum,Kerala,CORPORATE
+Cust_1515,"CYRA REITEN",Trivandrum,Kerala,CONSUMER
+Cust_1516,"DAN CAMPBELL",Trivandrum,Kerala,CORPORATE
+Cust_1517,"BRIAN STUGART",Trivandrum,Kerala,CONSUMER
+Cust_1518,"JULIA BARNETT",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1519,"YANA SORENSEN",Trivandrum,Kerala,CORPORATE
+Cust_152,"CHUCK MAGEE",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1520,"JONI WASSERMAN",Trivandrum,Kerala,CONSUMER
+Cust_1521,"AARON HAWKINS",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1522,"VICTORIA PISTEKA",Trivandrum,Kerala,CORPORATE
+Cust_1523,"DAVE KIPP",Trivandrum,Kerala,CORPORATE
+Cust_1524,"SHIRLEY JACKSON",Trivandrum,Kerala,CORPORATE
+Cust_1525,"DAVID BREMER",Trivandrum,Kerala,CORPORATE
+Cust_1526,"DEANRA ENO",Trivandrum,Kerala,CORPORATE
+Cust_1527,"ALEKSANDRA GANNAWAY",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1528,"BRIAN STUGART",Trivandrum,Kerala,CORPORATE
+Cust_1529,"JILL MATTHIAS",Trivandrum,Kerala,CONSUMER
+Cust_153,"FRANK ATKINSON",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1530,"TIM TASLIMI",Trivandrum,Kerala,CORPORATE
+Cust_1531,"MUHAMMED LEE",Trivandrum,Kerala,CORPORATE
+Cust_1532,"JULIANA KROHN",Trivandrum,Kerala,CORPORATE
+Cust_1533,"DARRIN SAYRE",Trivandrum,Kerala,CONSUMER
+Cust_1534,"DUANE NOONAN",Trivandrum,Kerala,CORPORATE
+Cust_1535,"PAUL VAN HUGH",Trivandrum,Kerala,CORPORATE
+Cust_1536,"JANET MARTIN",Trivandrum,Kerala,CORPORATE
+Cust_1537,"COREY ROPER",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1538,"DARREN BUDD",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1539,"DARREN BUDD",Trivandrum,Kerala,CONSUMER
+Cust_154,"CARLOS SOLTERO",Coimbatore,"Tamil Nadu",CONSUMER
+Cust_1540,"HELEN ANDREADA",Trivandrum,Kerala,CORPORATE
+Cust_1541,"NICOLE BRENNAN",Trivandrum,Kerala,CONSUMER
+Cust_1542,"IVAN LISTON",Trivandrum,Kerala,CONSUMER
+Cust_1543,"BRENDAN MURRY",Trivandrum,Kerala,CORPORATE
+Cust_1544,"AMY COX",Trivandrum,Kerala,CORPORATE
+Cust_1545,"KAREN CARLISLE",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1546,"TRACY HOPKINS",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1547,"DAVE KIPP",Trivandrum,Kerala,CONSUMER
+Cust_1548,"TOM ASHBROOK",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1549,"NICOLE BRENNAN",Trivandrum,Kerala,"HOME OFFICE"
+Cust_155,"PHILIP BROWN",Coimbatore,"Tamil Nadu","HOME OFFICE"
+Cust_1550,"AMY COX",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1551,"BARRY WEIRICH",Trivandrum,Kerala,CORPORATE
+Cust_1552,"ALLEN ARMOLD",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1553,"MARIS LAWARE",Trivandrum,Kerala,"HOME OFFICE"
+Cust_1554,"MICK BROWN",Trivandrum,Kerala,CONSUMER
+Cust_1555,"CHRIS MCAFEE",Trivandrum,Kerala,CONSUMER
+Cust_1556,"SARA LUXEMBURG",Trivandrum,Kerala,CORPORATE
+Cust_1557,"DEBORAH BRUMFIELD",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_1558,"JAY FINE",Trivandrum,Kerala,CONSUMER
+Cust_1559,"BENJAMIN VENIER",Trivandrum,Kerala,"SMALL BUSINESS"
+Cust_156,"ERICA BERN",Coimbatore,"Tamil Nadu","SMALL BUSINESS"
+Cust_1560,"SPEROS GORANITIS",Trivandrum,Kerala,CORPORATE
+Cust_1561,"PETE KRIZ",Trivandrum,Kerala,CORPORATE
+Cust_1562,"IRENE MADDOX",Trivandrum,Kerala,CONSUMER
+Cust_1563,"PATRICK BZOSTEK",Trivandrum,Kerala,CONSUMER
+Cust_1564,"MUHAMMED LEE",Trivandrum,Kerala,CONSUMER
+Cust_1565,"PETE KRIZ",Chennai,"Tamil Nadu",CORPORATE
+Cust_1566,"MARK HABERLIN",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1567,"EMILY BURNS",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1568,"DAVE KIPP",Chennai,"Tamil Nadu",CONSUMER
+Cust_1569,"DOUG OCONNELL",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_157,"CARLOS SOLTERO",Coimbatore,"Tamil Nadu","SMALL BUSINESS"
+Cust_1570,"COREY LOCK",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1571,"KAREN CARLISLE",Chennai,"Tamil Nadu",CORPORATE
+Cust_1572,"MICK BROWN",Chennai,"Tamil Nadu",CONSUMER
+Cust_1573,"DEBORAH BRUMFIELD",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1574,"NICOLE BRENNAN",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1575,"JAY FINE",Chennai,"Tamil Nadu",CONSUMER
+Cust_1576,"JULIANA KROHN",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1577,"YANA SORENSEN",Chennai,"Tamil Nadu",CORPORATE
+Cust_1578,"BRADLEY DRUCKER",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1579,"ADAM HART",Chennai,"Tamil Nadu",CORPORATE
+Cust_158,"JIM SINK",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1580,"BENJAMIN VENIER",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1581,"IVAN LISTON",Chennai,"Tamil Nadu",CONSUMER
+Cust_1582,"SARA LUXEMBURG",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1583,"TOM ASHBROOK",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1584,"JONI WASSERMAN",Chennai,"Tamil Nadu",CONSUMER
+Cust_1585,"ERIC MURDOCK",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1586,"BRAD THOMAS",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1587,"VICTORIA PISTEKA",Chennai,"Tamil Nadu",CORPORATE
+Cust_1588,"BARRY POND",Chennai,"Tamil Nadu",CONSUMER
+Cust_1589,"CHRIS MCAFEE",Chennai,"Tamil Nadu",CONSUMER
+Cust_159,"PHILIP BROWN",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1590,"KAREN CARLISLE",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1591,"BART FOLK",Chennai,"Tamil Nadu",CORPORATE
+Cust_1592,"BARRY WEIRICH",Chennai,"Tamil Nadu",CORPORATE
+Cust_1593,"MICHAEL STEWART",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1594,"DAVE POIRIER",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1595,"ALEKSANDRA GANNAWAY",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1596,"BRYAN SPRUELL",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1597,"CHRISTY BRITTAIN",Chennai,"Tamil Nadu",CONSUMER
+Cust_1598,"HAROLD DAHLEN",Chennai,"Tamil Nadu",CONSUMER
+Cust_1599,"BOBBY TRAFTON",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_16,"ANNIE CYPRUS",Kolkata,"West Bengal","HOME OFFICE"
+Cust_160,"LOGAN HAUSHALTER",Coimbatore,"Tamil Nadu",CORPORATE
+Cust_1600,"SPEROS GORANITIS",Chennai,"Tamil Nadu",CORPORATE
+Cust_1601,"GRANT THORNTON",Chennai,"Tamil Nadu",CORPORATE
+Cust_1602,"TOM PRESCOTT",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1603,"ALAN SCHOENBERGER",Chennai,"Tamil Nadu",CORPORATE
+Cust_1604,"PATRICK BZOSTEK",Chennai,"Tamil Nadu",CONSUMER
+Cust_1605,"TAMARA WILLINGHAM",Chennai,"Tamil Nadu",CORPORATE
+Cust_1606,"DENNY ORDWAY",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1607,"ROLAND FJELD",Chennai,"Tamil Nadu",CORPORATE
+Cust_1608,"ELIZABETH MOFFITT",Chennai,"Tamil Nadu",CONSUMER
+Cust_1609,"DAVID KENDRICK",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_161,"NOAH CHILDS",Coimbatore,"Tamil Nadu","HOME OFFICE"
+Cust_1610,"JULIA BARNETT",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1611,"SHIRLEY JACKSON",Chennai,"Tamil Nadu",CORPORATE
+Cust_1612,"BRENDAN MURRY",Chennai,"Tamil Nadu",CORPORATE
+Cust_1613,"JENNIFER PATT",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1614,"JEREMY PISTEK",Chennai,"Tamil Nadu",CORPORATE
+Cust_1615,"DAVID BREMER",Chennai,"Tamil Nadu",CORPORATE
+Cust_1616,"NORA PAIGE",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1617,"BOBBY TRAFTON",Chennai,"Tamil Nadu",CORPORATE
+Cust_1618,"ALEJANDRO SAVELY",Chennai,"Tamil Nadu",CORPORATE
+Cust_1619,"CHARLES CRESTANI",Chennai,"Tamil Nadu",CONSUMER
+Cust_162,"NOAH CHILDS",Cochin,Kerala,"HOME OFFICE"
+Cust_1620,"MUHAMMED LEE",Chennai,"Tamil Nadu",CORPORATE
+Cust_1621,"MAUREEN GASTINEAU",Chennai,"Tamil Nadu",CONSUMER
+Cust_1622,"BERENIKE KAMPE",Chennai,"Tamil Nadu",CORPORATE
+Cust_1623,"BOBBY ELIAS",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1624,"NOEL STAAVOS",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1625,"DAMALA KOTSONIS",Chennai,"Tamil Nadu",CORPORATE
+Cust_1626,"JILL MATTHIAS",Chennai,"Tamil Nadu",CONSUMER
+Cust_1627,"TIM TASLIMI",Chennai,"Tamil Nadu",CORPORATE
+Cust_1628,"COREY CATLETT",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1629,"HAROLD DAHLEN",Chennai,"Tamil Nadu",CORPORATE
+Cust_163,"EVAN MINNOTTE",Cochin,Kerala,CORPORATE
+Cust_1630,"DAN CAMPBELL",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1631,"MARIS LAWARE",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1632,"MARK PACKER",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1633,"JULIANA KROHN",Chennai,"Tamil Nadu",CORPORATE
+Cust_1634,"BILL SHONELY",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1635,"DEBRA CATINI",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1636,"EMILY PHAN",Chennai,"Tamil Nadu",CONSUMER
+Cust_1637,"KEITH HERRERA",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1638,"TONY MOLINARI",Chennai,"Tamil Nadu",CORPORATE
+Cust_1639,"RICK HUTHWAITE",Chennai,"Tamil Nadu",CORPORATE
+Cust_164,"GUY ARMSTRONG",Cochin,Kerala,CORPORATE
+Cust_1640,"GEORGE ZREBASSA",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1641,"AARON HAWKINS",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1642,"DAN CAMPBELL",Chennai,"Tamil Nadu",CORPORATE
+Cust_1643,"TAMARA WILLINGHAM",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1644,"NICOLE BRENNAN",Chennai,"Tamil Nadu",CONSUMER
+Cust_1645,"PAUL VAN HUGH",Chennai,"Tamil Nadu",CONSUMER
+Cust_1646,"CYRA REITEN",Chennai,"Tamil Nadu",CONSUMER
+Cust_1647,"HELEN ANDREADA",Chennai,"Tamil Nadu",CORPORATE
+Cust_1648,"CHRIS CORTES",Chennai,"Tamil Nadu",CONSUMER
+Cust_1649,"KATHERINE DUCICH",Chennai,"Tamil Nadu",CORPORATE
+Cust_165,"CHUCK MAGEE",Cochin,Kerala,CORPORATE
+Cust_1650,"THOMAS THORNTON",Chennai,"Tamil Nadu",CONSUMER
+Cust_1651,"IRENE MADDOX",Chennai,"Tamil Nadu",CONSUMER
+Cust_1652,"ALLEN ARMOLD",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1653,"ERIC BARRETO",Chennai,"Tamil Nadu",CONSUMER
+Cust_1654,"RAYMOND FAIR",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1655,"TRACY HOPKINS",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1656,"NATALIE WEBBER",Chennai,"Tamil Nadu",CORPORATE
+Cust_1657,"BRAD THOMAS",Chennai,"Tamil Nadu",CORPORATE
+Cust_1658,"KEAN THORNTON",Chennai,"Tamil Nadu",CORPORATE
+Cust_1659,"ALYSSA TATE",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_166,"GREG GUTHRIE",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1660,"JULIA BARNETT",Chennai,"Tamil Nadu",CORPORATE
+Cust_1661,"ANNE MCFARLAND",Chennai,"Tamil Nadu",CONSUMER
+Cust_1662,"THEA HENDRICKS",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1663,"NATALIE WEBBER",Chennai,"Tamil Nadu",CONSUMER
+Cust_1664,"ERIC BARRETO",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1665,"ED JACOBS",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1666,"DEAN KATZ",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1667,"GIULIETTA DORTCH",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1668,"MUHAMMED LEE",Chennai,"Tamil Nadu",CONSUMER
+Cust_1669,"ART FOSTER",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_167,"CARLOS SOLTERO",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1670,"EUGENE MOREN",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1671,"CAROL DARLEY",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1672,"MARIBETH DONA",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1673,"FRED HARTON",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1674,"ANDREW ALLEN",Chennai,"Tamil Nadu",CORPORATE
+Cust_1675,"ART MILLER",Chennai,"Tamil Nadu",CORPORATE
+Cust_1676,"SCOTT COHEN",Chennai,"Tamil Nadu",CONSUMER
+Cust_1677,"LAUREN LEATHERBURY",Chennai,"Tamil Nadu",CORPORATE
+Cust_1678,"GREG MATTHIAS",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1679,"CYNTHIA DELANEY",Chennai,"Tamil Nadu",CORPORATE
+Cust_168,"GREG GUTHRIE",Cochin,Kerala,CORPORATE
+Cust_1680,"ANTHONY RAWLES",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1681,"LAUREN LEATHERBURY",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1682,"BARRY BLUMSTEIN",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1683,"EVA JACOBS",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1684,"CAROL DARLEY",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1685,"DUANE NOONAN",Chennai,"Tamil Nadu",CORPORATE
+Cust_1686,"GREG MATTHIAS",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_1687,"SANJIT JACOBS",Chennai,"Tamil Nadu",CONSUMER
+Cust_1688,"KEN LONSDALE",Chennai,"Tamil Nadu",CONSUMER
+Cust_1689,"CHRISTOPHER MARTINEZ",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_169,"CARLOS SOLTERO",Cochin,Kerala,CONSUMER
+Cust_1690,"RICARDO BLOCK",Bangalore,Karnataka,CORPORATE
+Cust_1691,"ROGER BARCIO",Bangalore,Karnataka,CORPORATE
+Cust_1692,"SUNG PAK",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1693,"TIM BROCKMAN",Bangalore,Karnataka,CONSUMER
+Cust_1694,"VICTORIA PISTEKA",Bangalore,Karnataka,CORPORATE
+Cust_1695,"SUNG CHUNG",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1696,"RESI POLKING",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1697,"ROGER DEMIR",Bangalore,Karnataka,CONSUMER
+Cust_1698,"TAMARA MANNING",Bangalore,Karnataka,CORPORATE
+Cust_1699,"SUE ANN REED",Bangalore,Karnataka,CONSUMER
+Cust_17,"GRANT CARROLL",Kolkata,"West Bengal","SMALL BUSINESS"
+Cust_170,"CHRISTOPHER SCHILD",Cochin,Kerala,CORPORATE
+Cust_1700,"JOHN MURRAY",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1701,"SHAUN CHANCE",Bangalore,Karnataka,CORPORATE
+Cust_1702,"DARREN POWERS",Bangalore,Karnataka,CORPORATE
+Cust_1703,"PENELOPE SEWALL",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1704,"MIKE PELLETIER",Bangalore,Karnataka,CORPORATE
+Cust_1705,"TOM PRESCOTT",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1706,"SHARELLE ROACH",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1707,"PAULINE WEBBER",Bangalore,Karnataka,CONSUMER
+Cust_1708,"QUINCY JONES",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1709,"LINDSAY CASTELL",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_171,"JOY SMITH",Cochin,Kerala,CORPORATE
+Cust_1710,"ADAM BELLAVANCE",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1711,"KEN DANA",Bangalore,Karnataka,CORPORATE
+Cust_1712,"KEN DANA",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1713,"LINDSAY CASTELL",Bangalore,Karnataka,CORPORATE
+Cust_1714,"LAUREL WORKMAN",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1715,"LISA RYAN",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1716,"MAX ENGLE",Bangalore,Karnataka,CORPORATE
+Cust_1717,"HELEN WASSERMAN",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1718,"JULIA DUNBAR",Bangalore,Karnataka,CONSUMER
+Cust_1719,"CARL WEISS",Bangalore,Karnataka,CONSUMER
+Cust_172,"JOY SMITH",Cochin,Kerala,CONSUMER
+Cust_1720,"CHUCK CLARK",Bangalore,Karnataka,CORPORATE
+Cust_1721,"DARREN KOUTRAS",Bangalore,Karnataka,CONSUMER
+Cust_1722,"ROLAND MURRAY",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1723,"DANIEL BYRD",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1724,"BOBBY ODEGARD",Bangalore,Karnataka,CORPORATE
+Cust_1725,"CHLORIS KASTENSMIDT",Bangalore,Karnataka,CONSUMER
+Cust_1726,"BOBBY ODEGARD",Bangalore,Karnataka,CONSUMER
+Cust_1727,"ARTHUR GAINER",Bangalore,Karnataka,CONSUMER
+Cust_1728,"LISA HAZARD",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1729,"MITCH GASTINEAU",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_173,"BRIAN MOSS",Cochin,Kerala,CORPORATE
+Cust_1730,"KATHARINE HARMS",Bangalore,Karnataka,CONSUMER
+Cust_1731,"MATTHEW GRINSTEIN",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1732,"CATHY PRESCOTT",Bangalore,Karnataka,CORPORATE
+Cust_1733,"LAUREN LEATHERBURY",Bangalore,Karnataka,CORPORATE
+Cust_1734,"LAUREN LEATHERBURY",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1735,"MITCH GASTINEAU",Bangalore,Karnataka,CORPORATE
+Cust_1736,"QUINCY JONES",Bangalore,Karnataka,CORPORATE
+Cust_1737,"MARIA ETEZADI",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1738,"CARI MACINTYRE",Bangalore,Karnataka,CORPORATE
+Cust_1739,"SAMPLE COMPANY A",Bangalore,Karnataka,"HOME OFFICE"
+Cust_174,"LOGAN HAUSHALTER",Cochin,Kerala,CORPORATE
+Cust_1740,"MARIA ZETTNER",Bangalore,Karnataka,CORPORATE
+Cust_1741,"SONIA COOLEY",Bangalore,Karnataka,CORPORATE
+Cust_1742,"SIBELLA PARKS",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1743,"HALLIE REDMOND",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1744,"HAROLD DAHLEN",Bangalore,Karnataka,CORPORATE
+Cust_1745,"HALLIE REDMOND",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1746,"BECKY PAK",Bangalore,Karnataka,CORPORATE
+Cust_1747,"HAROLD DAHLEN",Bangalore,Karnataka,CONSUMER
+Cust_1748,"CLYTIE KELTY",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1749,"ADAM SHILLINGSBURG",Bangalore,Karnataka,CORPORATE
+Cust_175,"JIM SINK",Cochin,Kerala,CORPORATE
+Cust_1750,"BROOKE GILLINGHAM",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1751,"TOM BOECKENHAUER",Bangalore,Karnataka,CORPORATE
+Cust_1752,"ALEX RUSSELL",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1753,"ALEJANDRO BALLENTINE",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1754,"CLAIRE GOOD",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1755,"TRUDY BELL",Bangalore,Karnataka,CONSUMER
+Cust_1756,"ALYSSA CROUSE",Bangalore,Karnataka,CORPORATE
+Cust_1757,"CASSANDRA BRANDOW",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1758,"ADRIAN BARTON",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1759,"CATHERINE GLOTZBACH",Bangalore,Karnataka,"HOME OFFICE"
+Cust_176,"JENNIFER BRAXTON",Cochin,Kerala,"SMALL BUSINESS"
+Cust_1760,"JENNA CAFFEY",Bangalore,Karnataka,CONSUMER
+Cust_1761,"ROSE OBRIAN",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1762,"VALERIE TAKAHITO",Bangalore,Karnataka,CONSUMER
+Cust_1763,"RICK WILSON",Bangalore,Karnataka,CONSUMER
+Cust_1764,"FRANK OLSEN",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1765,"RICK WILSON",Bangalore,Karnataka,CORPORATE
+Cust_1766,"ERICA HACKNEY",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1767,"ALYSSA CROUSE",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1768,"KEN LONSDALE",Bangalore,Karnataka,CONSUMER
+Cust_1769,"CARI SAYRE",Bangalore,Karnataka,CORPORATE
+Cust_177,"HAROLD ENGLE",Cochin,Kerala,"HOME OFFICE"
+Cust_1770,"ALICE MCCARTHY",Bangalore,Karnataka,CORPORATE
+Cust_1771,"FRANK MERWIN",Bangalore,Karnataka,CONSUMER
+Cust_1772,"ANNIE THURMAN",Bangalore,Karnataka,CONSUMER
+Cust_1773,"BRUCE MONEY",Bangalore,Karnataka,CORPORATE
+Cust_1774,"KELLY WILLIAMS",Bangalore,Karnataka,CORPORATE
+Cust_1775,"DANIEL LACY",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1776,"ANNIE THURMAN",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1777,"GEORGIA ROSENBERG",Bangalore,Karnataka,CONSUMER
+Cust_1778,"CRAIG CARROLL",Bangalore,Karnataka,CORPORATE
+Cust_1779,"CRAIG CARROLL",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_178,"HILARY HOLDEN",Cochin,Kerala,CORPORATE
+Cust_1780,"CRAIG LESLIE",Bangalore,Karnataka,CONSUMER
+Cust_1781,"EMILY GRADY",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1782,"LARRY TRON",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1783,"BRIAN DECHERNEY",Bangalore,Karnataka,CORPORATE
+Cust_1784,"ANN STEELE",Bangalore,Karnataka,CORPORATE
+Cust_1785,"CARI SAYRE",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1786,"LARRY TRON",Bangalore,Karnataka,CORPORATE
+Cust_1787,"HAROLD PAWLAN",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1788,"FRANK MERWIN",Bangalore,Karnataka,CORPORATE
+Cust_1789,"ANTHONY JACOBS",Bangalore,Karnataka,"HOME OFFICE"
+Cust_179,"ERICA BERN",Cochin,Kerala,CORPORATE
+Cust_1790,"KATRINA EDELMAN",Bangalore,Karnataka,CORPORATE
+Cust_1791,"GRACE KELLY",Bangalore,Karnataka,CONSUMER
+Cust_1792,"FRANK GASTINEAU",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1793,"RUBEN DARTT",Bangalore,Karnataka,CORPORATE
+Cust_1794,"LIZ PELLETIER",Bangalore,Karnataka,CORPORATE
+Cust_1795,"TONY SAYRE",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1796,"ROY PHAN",Bangalore,Karnataka,CONSUMER
+Cust_1797,"CLAY CHEATHAM",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1798,"YOSEPH CARROLL",Bangalore,Karnataka,CONSUMER
+Cust_1799,"RAYMOND BOOK",Bangalore,Karnataka,CONSUMER
+Cust_18,"ALAN BARNES",Kolkata,"West Bengal",CORPORATE
+Cust_180,"HAROLD ENGLE",Cochin,Kerala,CONSUMER
+Cust_1800,"ALAN DOMINGUEZ",Bangalore,Karnataka,CORPORATE
+Cust_1801,"STEPHANIE PHELPS",Bangalore,Karnataka,CONSUMER
+Cust_1802,"ADRIAN HANE",Bangalore,Karnataka,CORPORATE
+Cust_1803,"TONJA TURNELL",Bangalore,Karnataka,CONSUMER
+Cust_1804,"BRENDAN SWEED",Bangalore,Karnataka,CONSUMER
+Cust_1805,"TONY SAYRE",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1806,"JIM KARLSSON",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1807,"ROY PHAN",Bangalore,Karnataka,CORPORATE
+Cust_1808,"STEVEN ROELLE",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1809,"CHRISTOPHER CONANT",Bangalore,Karnataka,CONSUMER
+Cust_181,"HELEN ABELMAN",Cochin,Kerala,"HOME OFFICE"
+Cust_1810,"ANDREW ROBERTS",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1811,"CYMA KINNEY",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1812,"CHRISTINE ABELMAN",Bangalore,Karnataka,CORPORATE
+Cust_1813,"ERICA SMITH",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1814,"CHRISTOPHER CONANT",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1815,"SARAH BROWN",Bangalore,Karnataka,CONSUMER
+Cust_1816,"SHUI TOM",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1817,"FRANK HAWLEY",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1818,"AARON BERGMAN",Bangalore,Karnataka,CORPORATE
+Cust_1819,"VICTORIA BRENNAN",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_182,"JACK LEBRON",Chennai,"Tamil Nadu",CORPORATE
+Cust_1820,"ADRIAN SHAMI",Bangalore,Karnataka,CONSUMER
+Cust_1821,"PHILLINA OBER",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1822,"ANDREW ROBERTS",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1823,"JEREMY LONSDALE",Bangalore,Karnataka,CORPORATE
+Cust_1824,"SHUI TOM",Bangalore,Karnataka,CONSUMER
+Cust_1825,"ANDY YOTOV",Bangalore,Karnataka,CORPORATE
+Cust_1826,"NICOLE BRENNAN",Bangalore,Karnataka,"HOME OFFICE"
+Cust_1827,"JESSICA MYRICK",Bangalore,Karnataka,"SMALL BUSINESS"
+Cust_1828,"NICOLE BRENNAN",Bangalore,Karnataka,CONSUMER
+Cust_1829,"JASON FORTUNE",Bangalore,Karnataka,CORPORATE
+Cust_183,"GIULIETTA BAPTIST",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_1830,"HARRY GREENE",Bangalore,Karnataka,CORPORATE
+Cust_1831,"GRANT DONATELLI",Bangalore,Karnataka,CONSUMER
+Cust_1832,"MICK BROWN",Bangalore,Karnataka,CONSUMER
+Cust_184,"JIM SINK",Chennai,"Tamil Nadu",CORPORATE
+Cust_185,"JULIE CREIGHTON",Chennai,"Tamil Nadu",CORPORATE
+Cust_186,"SANJIT CHAND",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_187,"MATT COLLINS",Chennai,"Tamil Nadu",CONSUMER
+Cust_188,"JUSTIN KNIGHT",Chennai,"Tamil Nadu",CORPORATE
+Cust_189,"ROB HABERLIN",Chennai,"Tamil Nadu",CORPORATE
+Cust_19,"JACK GARZA",Kolkata,"West Bengal",CORPORATE
+Cust_190,"ROB HABERLIN",Chennai,"Tamil Nadu",CONSUMER
+Cust_191,"CHRISTINA VANDERZANDEN",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_192,"LENA CACIOPPO",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_193,"KIMBERLY CARTER",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_194,"GENE HALE",Chennai,"Tamil Nadu",CONSUMER
+Cust_195,"SALLY KNUTSON",Chennai,"Tamil Nadu",CONSUMER
+Cust_196,"MARINA LICHTENSTEIN",Chennai,"Tamil Nadu",CORPORATE
+Cust_197,"MICHELLE ARNETT",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_198,"SETH VERNON",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_199,"LUKE WEISS",Chennai,"Tamil Nadu",CORPORATE
+Cust_2,"BARRY FRENCH",Kolkata,"West Bengal",CONSUMER
+Cust_20,"JULIA WEST",Kolkata,"West Bengal",CORPORATE
+Cust_200,"ANTHONY JOHNSON",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_201,"KIMBERLY CARTER",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_202,"SALLY KNUTSON",Chennai,"Tamil Nadu",CORPORATE
+Cust_203,"CHRISTINA DEMOSS",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_204,"MONICA FEDERLE",Chennai,"Tamil Nadu",CORPORATE
+Cust_205,"JOY SMITH",Chennai,"Tamil Nadu",CONSUMER
+Cust_206,"SONIA SUNLEY",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_207,"ANTHONY ODONNELL",Chennai,"Tamil Nadu",CONSUMER
+Cust_208,"EMILY GRADY",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_209,"ALEX AVILA",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_21,"EUGENE BARCHAS",Kolkata,"West Bengal",CORPORATE
+Cust_210,"BRIAN MOSS",Chennai,"Tamil Nadu",CORPORATE
+Cust_211,"ANNA ANDREADI",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_212,"BARBARA FISHER",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_213,"KELLY WILLIAMS",Chennai,"Tamil Nadu",CORPORATE
+Cust_214,"SONIA SUNLEY",Chennai,"Tamil Nadu",CORPORATE
+Cust_215,"JOCASTA RUPERT",Chennai,"Tamil Nadu",CONSUMER
+Cust_216,"RICK DUSTON",Chennai,"Tamil Nadu",CORPORATE
+Cust_217,"ANGELE HOOD",Chennai,"Tamil Nadu",CONSUMER
+Cust_218,"DENNIS BOLTON",Chennai,"Tamil Nadu",CONSUMER
+Cust_219,"STEWART CARMICHAEL",Chennai,"Tamil Nadu",CORPORATE
+Cust_22,"EDWARD HOOKS",Kolkata,"West Bengal",CONSUMER
+Cust_220,"ALEX AVILA",Chennai,"Tamil Nadu",CORPORATE
+Cust_221,"SARAH FOSTER",Chennai,"Tamil Nadu",CORPORATE
+Cust_222,"JIM KARLSSON",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_223,"LISA DECHERNEY",Chennai,"Tamil Nadu",CORPORATE
+Cust_224,"ROY SKARIA",Chennai,"Tamil Nadu",CORPORATE
+Cust_225,"DENNIS BOLTON",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_226,"PETER BUHLER",Chennai,"Tamil Nadu",CONSUMER
+Cust_227,"ANTHONY ODONNELL",Chennai,"Tamil Nadu",CORPORATE
+Cust_228,"DANIEL LACY",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_229,"GIULIETTA WEIMER",Chennai,"Tamil Nadu",CORPORATE
+Cust_23,"BRAD EASON",Kolkata,"West Bengal","SMALL BUSINESS"
+Cust_230,"MIKE VITTORINI",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_231,"LELA DONOVAN",Chennai,"Tamil Nadu",CORPORATE
+Cust_232,"SHAHID SHARIARI",Chennai,"Tamil Nadu",CORPORATE
+Cust_233,"TRUDY SCHMIDT",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_234,"CHRISTOPHER MARTINEZ",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_235,"MARC HARRIGAN",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_236,"LIZ PRICE",Chennai,"Tamil Nadu",CONSUMER
+Cust_237,"RALPH KENNEDY",Chennai,"Tamil Nadu",CORPORATE
+Cust_238,"ROB DOWD",Chennai,"Tamil Nadu",CORPORATE
+Cust_239,"KHLOE MILLER",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_24,"NICOLE HANSEN",Kolkata,"West Bengal","SMALL BUSINESS"
+Cust_240,"SHAHID HOPKINS",Chennai,"Tamil Nadu","SMALL BUSINESS"
+Cust_241,"KRISTINA NUNN",Chennai,"Tamil Nadu",CONSUMER
+Cust_242,"RICARDO EMERSON",Chennai,"Tamil Nadu",CORPORATE
+Cust_243,"PATRICK OBRILL",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_244,"THOMAS BRUMLEY",Chennai,"Tamil Nadu",CONSUMER
+Cust_245,"VICKY FREYMANN",Chennai,"Tamil Nadu","HOME OFFICE"
+Cust_246,"KHLOE MILLER",Chennai,"Tamil Nadu",CORPORATE
+Cust_247,"TONY CHAPMAN",Chennai,"Tamil Nadu",CONSUMER
+Cust_248,"LIZ PRICE",Chennai,"Tamil Nadu",CORPORATE
+Cust_249,"SARAH BERN",Chennai,"Tamil Nadu",CORPORATE
