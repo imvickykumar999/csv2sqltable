@@ -67,7 +67,7 @@ customer_id | customername | lastname | country | age | phone
 
 ------------
 
-`Sub Output` : `on ruuning magic sql command`
+`Sub Output` : `on running magic sql command`
 -----------
 
 <div id="output-area"><span id="output-header"> </span><div id="output-body"><div class="stream output-id-1"><div class="output_subarea output_text"><pre> * sqlite:///vicks.db
